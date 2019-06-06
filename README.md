@@ -2,14 +2,11 @@
 vue2 +vue-router + es6 +webpack + better-scroll 高仿饿了么Web app商家核心模块
 
 # 安装运行
-// install dependencies
-npm install
 
-// serve with hot reload at localhost:8080
-npm run dev
+npm install  // install dependencies
 
-// build for production with minification
-npm run build
+npm run dev  // serve with hot reload at localhost:8080
 
-// hot reload at localhost:8080
-node prod.server.js
+npm run build  // build for production with minification
+
+node prod.server.js  // hot reload at localhost:8080
